@@ -1,0 +1,15 @@
+nav ul{
+    padding: 10px;
+    margin: 15px;
+    list-style-type: none;
+    background-color: orange;
+    color: white;
+    
+}
+nav li{
+    display: inline;
+    width: 15px;
+    height: 15px;
+    margin: 15px;
+    padding: 15px;
+}
